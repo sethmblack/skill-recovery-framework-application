@@ -3,8 +3,8 @@ name: recovery-framework-application
 description: Translate twelve-step recovery principles to non-addiction life challenges using powerlessness, inventory, amends, and service
 license: MIT
 metadata:
-  version: 1.0.4807
   author: Seth Black
+  version: 1.0.4808
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - recovery
